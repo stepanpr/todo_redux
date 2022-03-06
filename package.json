@@ -1,0 +1,19 @@
+{
+  "name": "backand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepanpr/todo_redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepanpr/todo_redux/issues"
+  },
+  "homepage": "https://github.com/stepanpr/todo_redux#readme"
+}
